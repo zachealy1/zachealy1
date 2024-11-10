@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @zachealy1
+- 👀 I’m passionate about software engineering, AI-driven solutions, and full-stack development. I enjoy exploring how technology can solve real-world problems and enhance user experiences.
+- 🌱 Currently, I’m expanding my skills in cloud platforms and DevOps practices to build more scalable and efficient applications.
+- 📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/zac-healy-3b508b177)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I play Guitar, Drums, and Piano—music is my favourite way to unwind after coding!
