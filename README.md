@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zach Healy (@zachealy1)
+- 👋 Hi, I’m Zac Healy (@zachealy1)
 - 💻 I’m a software engineer interested in AI, full-stack development, and building technology that makes a real impact.
 - 🎓 Currently studying at the University of Oxford.
 - 🎸 Outside of tech, I play guitar, drums, and piano — music’s my go-to way to unwind.
